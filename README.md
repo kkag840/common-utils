@@ -289,3 +289,6 @@ For issues, questions, or contributions, please refer to the project documentati
 **Last Updated**: December 27, 2025  
 **Project Version**: 0.0.1
 
+[![](https://jitpack.io/v/kkag840/common-utils.svg)](https://jitpack.io/#kkag840/common-utils)
+
+
